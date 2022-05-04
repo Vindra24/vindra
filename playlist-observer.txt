@@ -1,0 +1,22 @@
+1644124337: new file observer at /sdcard/Playlists with mask 712
+1644124337: Object created, trigger FULL_SYNC_SCAN
+1644124339: fullSyncScan() running...
+1644124355: LibraryObserver::onChange id=-2, msg=4
+1644124357: forceM3uImport: metadata cleared, calling fullSyncScan
+1644124357: fullSyncScan() running...
+1645190202: new file observer at /sdcard/Playlists with mask 712
+1645190202: Object created, trigger FULL_SYNC_SCAN
+1645190205: fullSyncScan() running...
+1645190215: LibraryObserver::onChange id=-1, msg=2
+1645190218: dumpAllAsM3uPlaylist: called
+1650808903: new file observer at /sdcard/Playlists with mask 712
+1650808903: Object created, trigger FULL_SYNC_SCAN
+1650808905: fullSyncScan() running...
+1650808915: LibraryObserver::onChange id=-2, msg=4
+1650808918: forceM3uImport: metadata cleared, calling fullSyncScan
+1650808918: fullSyncScan() running...
+1650944699: new file observer at /sdcard/Playlists with mask 712
+1650944699: Object created, trigger FULL_SYNC_SCAN
+1650944701: fullSyncScan() running...
+1650944706: LibraryObserver::onChange id=-1, msg=2
+1650944708: dumpAllAsM3uPlaylist: called
